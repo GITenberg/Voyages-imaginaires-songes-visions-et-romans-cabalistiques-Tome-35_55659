@@ -1,0 +1,43 @@
+_repo: Voyages-imaginaires-songes-visions-et-romans-cabalistiques-Tome-35_55659
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Cazotte, Jacques
+    birthdate: 1719
+    deathdate: 1792
+    gutenberg_agent_id: '25789'
+    url: http://www.gutenberg.org/2009/agents/25789
+  - agent_name: Hamilton, Alexander
+    birthdate: 1757
+    deathdate: 1804
+    gutenberg_agent_id: '13'
+    url: http://www.gutenberg.org/2009/agents/13
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_Hamilton
+  - agent_name: Muratori, Lodovico Antonio
+    aliases:
+    - Muratori, Ludovico Antonio
+    - Muratori, Luis Antonio
+    - Lampridius, Antonius
+    - Pritanio, Lamindo
+    - Muratorio, Ludovico Antonio
+    - Valdesius, Ferdinandus
+    - Muratori, L. A. (Lodovico Antonio)
+    birthdate: 1672
+    deathdate: 1750
+    gutenberg_agent_id: '40167'
+    url: http://www.gutenberg.org/2009/agents/40167
+    wikipedia: http://en.wikipedia.org/wiki/Ludovico_Antonio_Muratori
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2017-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55659'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Voyages imaginaires, songes, visions et romans cabalistiques. Tome 35.
+url: http://www.gutenberg.org/ebooks/55659
